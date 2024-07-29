@@ -9,3 +9,4 @@ Step 3: Run app
 ```
 npm start
 ```
+Step 4: Open browser [http](http://localhost:3000/)
