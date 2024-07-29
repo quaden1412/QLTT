@@ -1,6 +1,6 @@
 ## How to run
 
-Step 1: clone source code
+Step 1: clone source code<br />
 Step 2: Install packages, open terminal
 ```
 npm install
