@@ -75,3 +75,9 @@
   font-size: 1.6rem;
   margin: 0 6px;
 }
+.header__navbar-item-control {
+  font-size: 1.6rem;
+}
+.header__navbar-item-control-btn {
+  text-decoration: none;
+}
